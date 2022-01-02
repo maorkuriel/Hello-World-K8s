@@ -2,11 +2,7 @@
   <img src="https://user-images.githubusercontent.com/24803604/67205502-87c43800-f42d-11e9-9941-2a27d5dea0fe.png" />
 </p>
 
-This is just a simple demonstration to get a basic understanding of how Kubernetes works while working step by step. I learnt Kubernetes like this and made this repo to solve some problems that I faced during my learning experience so that it might help other beginners. We won't be going into depth about Docker :blush: but will see sufficient content to get you a basic understanding to learn and work with Kubernetes. :v: Hope you enjoy learning. If you like it please give it a :star2:. 
-
-**Important :-** By seeing size of the readme, you might have second thoughts. But to be honest, if you work from start to finish, you won't experience any problem and learn along the way. 
-
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/tripathi.kautilya@gmail.com)
+Get a basic understanding of how Kubernetes works while working step by step.
 
 ## Contents
 
